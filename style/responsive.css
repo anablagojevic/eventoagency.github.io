@@ -80,8 +80,3 @@
         font-size: 12px;
     }
 }
-@media screen and (max-width: 314px){
-    .log{
-        width: 180px;
-    }
-}
